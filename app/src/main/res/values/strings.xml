@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">convertokotlin</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="api_key">AIzaSyBaf5kLg8VjbDM5xPgy3H2h5LalWcGVRCs</string>
+</resources>
